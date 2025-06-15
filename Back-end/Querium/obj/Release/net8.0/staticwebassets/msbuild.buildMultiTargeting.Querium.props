@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Querium.props" />
+</Project>
