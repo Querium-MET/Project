@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Querium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Querium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\File Upload\\FileUploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminApproveController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Questions\\QuestionsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentQuizController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Upload\\UploadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Chapter\\Chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\Student\\UploadStudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Services\\Subject\\SubjectService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Services\\Gemini\\GeminiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Services\\Chapter\\ChapterService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Services\\Auth\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestionEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Question\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentQuiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentUpload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Student\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentRegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\MultiUpload\\MultiChapterUploadDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterUploadDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\ChangePasswordDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\AdminLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Controllers\\General\\GeneralController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Admin\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Models\\Subject\\Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Migrations\\20250611131747_Add-student-Quiz-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Que\\Querim\\Migrations\\20250611142816_update-student-Quiz-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Querium.csproj",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Querium.csproj",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Querium.csproj",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Querium.csproj",
+              "RelativeToolTip": "..\\Que\\Querim\\Querium.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T22:07:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\appsettings.Development.json",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Que\\Querim\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T22:07:16.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\appsettings.json",
+              "RelativeToolTip": "..\\Que\\Querim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T22:07:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:34:05.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\File Upload\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\File Upload\\FileUploadController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\File Upload\\FileUploadController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\File Upload\\FileUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:37:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Program.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:26:00.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminApproveController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminApproveController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Admin\\AdminApproveController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Admin\\AdminApproveController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Admin\\AdminApproveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:36:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Questions\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Questions\\QuestionsController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Questions\\QuestionsController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Questions\\QuestionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:38:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Student\\StudentController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Student\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:38:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentQuizController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentQuizController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Student\\StudentQuizController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\StudentQuizController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Student\\StudentQuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:58:21.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Upload\\UploadController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Upload\\UploadController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Upload\\UploadController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Upload\\UploadController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:32:10.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:58:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Chapter\\Chapter.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Chapter\\Chapter.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Chapter\\Chapter.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Chapter\\Chapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:30:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadStudentController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\UploadStudentController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\Student\\UploadStudentController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\Student\\UploadStudentController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\Student\\UploadStudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:41:27.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Services\\Subject\\SubjectService.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Services\\Subject\\SubjectService.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Services\\Subject\\SubjectService.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Services\\Subject\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:54:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Services\\Gemini\\GeminiService.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Services\\Gemini\\GeminiService.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Services\\Gemini\\GeminiService.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Services\\Gemini\\GeminiService.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:54:22.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChapterService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Services\\Chapter\\ChapterService.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Services\\Chapter\\ChapterService.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Services\\Chapter\\ChapterService.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Services\\Chapter\\ChapterService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:53:25.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:53:00.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Question\\QuizQuestion.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestion.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Question\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:13:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuizQuestionEntity.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestionEntity.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Question\\QuizQuestionEntity.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Question\\QuizQuestionEntity.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Question\\QuizQuestionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:30:35.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Question\\Question.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Question\\Question.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Question\\Question.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Question\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:29:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentQuiz.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentQuiz.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentQuiz.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentQuiz.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:57:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentUpload.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentUpload.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentUpload.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentUpload.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Student\\QuizStudent\\StudentUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:56:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Student\\Student.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Student\\Student.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Student\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:32:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubjectFilterRequestDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Subject\\SubjectFilterRequestDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterRequestDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Subject\\SubjectFilterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:48:59.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SubjectFilterDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Subject\\SubjectFilterDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Subject\\SubjectFilterDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Subject\\SubjectFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:48:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentRegisterDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentRegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Student\\StudentRegisterDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentRegisterDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Student\\StudentRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:48:24.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentLoginDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Student\\StudentLoginDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Student\\StudentLoginDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Student\\StudentLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:48:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MultiChapterUploadDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\MultiUpload\\MultiChapterUploadDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\MultiUpload\\MultiChapterUploadDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\MultiUpload\\MultiChapterUploadDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\MultiUpload\\MultiChapterUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:47:33.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChapterUploadDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterUploadDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Chapter\\ChapterUploadDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterUploadDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Chapter\\ChapterUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:46:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChapterCreateDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Chapter\\ChapterCreateDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Chapter\\ChapterCreateDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Chapter\\ChapterCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:46:01.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Admin\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\ChangePasswordDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Admin\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:45:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminLoginDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\AdminLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Dtos\\Admin\\AdminLoginDto.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Dtos\\Admin\\AdminLoginDto.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Dtos\\Admin\\AdminLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:45:14.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GeneralController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Controllers\\General\\GeneralController.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Controllers\\General\\GeneralController.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Controllers\\General\\GeneralController.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Controllers\\General\\GeneralController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:34:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Admin\\Admin.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Admin\\Admin.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Admin\\Admin.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Admin\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:25:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Models\\Subject\\Subject.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Models\\Subject\\Subject.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Models\\Subject\\Subject.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Models\\Subject\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:31:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250611131747_Add-student-Quiz-table.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Migrations\\20250611131747_Add-student-Quiz-table.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Migrations\\20250611131747_Add-student-Quiz-table.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Migrations\\20250611131747_Add-student-Quiz-table.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Migrations\\20250611131747_Add-student-Quiz-table.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:17:47.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250611142816_update-student-Quiz-table.cs",
+              "DocumentMoniker": "D:\\Downloads\\Que\\Querim\\Migrations\\20250611142816_update-student-Quiz-table.cs",
+              "RelativeDocumentMoniker": "..\\Que\\Querim\\Migrations\\20250611142816_update-student-Quiz-table.cs",
+              "ToolTip": "D:\\Downloads\\Que\\Querim\\Migrations\\20250611142816_update-student-Quiz-table.cs",
+              "RelativeToolTip": "..\\Que\\Querim\\Migrations\\20250611142816_update-student-Quiz-table.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:28:17.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
